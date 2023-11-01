@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">coffeeapp</string>
+    <string name="icedLatte">Iced Latte</string>
+    <string name="americano">Americano</string>
+    <string name="latte">Latte</string>
+    <string name="mocha">Cafe Mocha</string>
+    <string name="flatWhite">Flat White</string>
+    <string name="coffeeisfree">5th Coffee Is Free</string>
+    <string name="description">Coffee so good ,your taste buds will love it.</string>
+    <string name="tall">Tall</string>
+    <string name="large">Large</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="price">$ 4.95</string>
+    <string name="cart">Add to Cart</string>
 </resources>

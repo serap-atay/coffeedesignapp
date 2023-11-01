@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">coffeeapp</string>
+    <string name="icedLatte">Soğuk Latte</string>
+    <string name="americano">Americano</string>
+    <string name="latte">Latte</string>
+    <string name="mocha">Cafe Mocha</string>
+    <string name="flatWhite">Flat White</string>
+    <string name="coffeeisfree">5. Kahve Ücretsiz</string>
+    <string name="description">Kahve çok güzel, damak tadınız buna bayılacak.</string>
+    <string name="tall">Mini</string>
+    <string name="large">Büyük</string>
+    <string name="small">Küçük</string>
+    <string name="medium">Orta</string>
+    <string name="price">₺ 150</string>
+    <string name="cart">Sepete Ekle</string>
+</resources>
