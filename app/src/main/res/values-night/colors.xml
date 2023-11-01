@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="sidebarcolor">#010626</color>
+    <color name="darkappbartheme">#011140</color>
+    <color name="darktheme">#020659</color>
+    <color name="middarktheme">#020659</color>
+    <color name="ligthdarktheme">#020659</color>
+
+    <color name="fontColor1">#EBF1F2</color>
+
+
+
+</resources>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">coffeeapp</string>
+    <string name="app_name">CoffeeShop</string>
     <string name="icedLatte">Soğuk Latte</string>
     <string name="americano">Americano</string>
     <string name="latte">Latte</string>
